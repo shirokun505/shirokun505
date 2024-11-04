@@ -2,9 +2,9 @@
 
 I am Anish Routh, people call me Ani, a recent computer science graduate from University OF Engineering & Management,Kolkata. I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anish-routh-93607b274)](www.linkedin.com/in/anish-routh-93607b274)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shirokun.__/)](https://instagram.com/shirokun.__)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.routh10@outlook.com)](mailto:a.routh10@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-anishrouth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anish-routh-93607b274)](www.linkedin.com/in/anish-routh-93607b274)
+[![Instagram Badge](https://img.shields.io/badge/-anishkun-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shirokun.__/)](https://instagram.com/shirokun.__)
+[![Gmail Badge](https://img.shields.io/badge/-a.routh10@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.routh10@outlook.com)](mailto:a.routh10@outlook.com)
 
 ## ⚡ Technologies
 
